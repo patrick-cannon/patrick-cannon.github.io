@@ -1,6 +1,6 @@
 ---
 title: First Post
-date: 2023-01-01 00:00:00 +0600
+date: 2023-01-01 00:00:00 -0600
 categories: [blogging]
 tags: [100DaysToOffload]
 ---

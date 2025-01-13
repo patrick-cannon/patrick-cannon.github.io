@@ -1,6 +1,6 @@
 ---
 title: Cat's Cradle Review
-date: 2023-07-12 00:00:00 +0600
+date: 2023-07-12 00:00:00 -0600
 categories: [Book Reviews]
 tags: [book reviews, kurt vonnegut]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Working Principles
-date: 2022-04-21 00:00:00 +0600
+date: 2022-04-21 00:00:00 -0600
 categories:
 tags:
 ---

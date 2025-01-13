@@ -1,7 +1,7 @@
 ---
 title: Habits, motivation, and discipline
-date: 2023-01-05 00:00:00 +0600
-categories: [Personal Improvement]
+date: 2023-01-05 00:00:00 -0600
+categories: [Personal Development]
 tags: [habits, 100DaysToOffload]
 ---
 

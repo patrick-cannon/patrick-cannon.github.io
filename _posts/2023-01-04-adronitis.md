@@ -1,6 +1,6 @@
 ---
 title: Adronitis
-date: 2023-01-04 00:00:00 +0600
+date: 2023-01-04 00:00:00 -0600
 categories: [Fun Words]
 tags: [fun words, dictionaryofobscuresorrows, 100DaysToOffload]
 ---
