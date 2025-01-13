@@ -5,7 +5,7 @@ categories: [blogging]
 tags: [100DaysToOffload]
 ---
 
-<img src="/assets/img/rules_pic.jpg">
+<img src="/assets/img/rules_pic.jpg" alt="pictures of rules">
 
 Today marks the first day of my #100DaysToOffload challenge.
 
