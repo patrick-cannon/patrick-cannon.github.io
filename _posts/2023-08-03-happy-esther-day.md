@@ -5,7 +5,6 @@ categories: [Reactions]
 tags: [vlogbrothers, cancer, love, 100DaysToOffload]
 ---
 
-
 Today John Green posted a [vlog on vlogbrothers](https://www.youtube.com/watch?v=T-bpQ-rx4pU) wishing his brother Hank a Happy Esther Day. If you’re curious, you can watch the video for a more in-depth explanation of the holiday, but I’ll give a quick explanation here.
 
 Basically, there was a teenage girl with cancer named Esther who was a nerdfighter (the name of the vlogbrothers community). Unfortunately she succumbed to the cancer, but before she died, she wanted to name a holiday in which everyone was told their loved ones that they loved them. It came from the fact that often Hank and John wouldn’t say “I love you” after talking on the phone, despite wanting to. It is a phenomenal idea that I wish got more attention.
