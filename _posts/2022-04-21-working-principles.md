@@ -1,8 +1,8 @@
 ---
 title: Working Principles
 date: 2022-04-21 00:00:00 -0600
-categories:
-tags:
+categories: [Personal Development]
+tags: [working principles]
 ---
 
 I strive to be as open and honest as possible in the work I do. These are some principles I found have served me well over my work experience.
