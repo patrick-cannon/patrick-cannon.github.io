@@ -1,9 +1,11 @@
 ---
 title: First Post
-date: 2022-04-21 00:00:00 +0600
+date: 2023-01-01 00:00:00 +0600
 categories: [blogging]
 tags: [100DaysToOffload]
 ---
+
+<img src="/assets/img/rules_pic.jpg">
 
 Today marks the first day of my #100DaysToOffload challenge.
 
