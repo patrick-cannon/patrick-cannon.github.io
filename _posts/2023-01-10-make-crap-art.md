@@ -5,7 +5,7 @@ categories: [Creativity]
 tags: [creativity, deliberate practice, 100DaysToOffload]
 ---
 
-[Crap Art](http://crapart.spacebar.org/) is a movement that seeks to “de-commodify” art, by urging a return to creative roots. The anti-elitist movement seeks to popularize to making “shitty” art. To give creative power back to the people. To cast out the gatekeepers and emphasize art as human expression, something inherent to everyone. Their website says it well:
+[Crap Art](https://crapart.spacebar.org/) is a movement that seeks to “de-commodify” art, by urging a return to creative roots. The anti-elitist movement seeks to popularize to making “shitty” art. To give creative power back to the people. To cast out the gatekeepers and emphasize art as human expression, something inherent to everyone. Their website says it well:
 
 > The name is meant to sound honest and down-to-earth; to make you think, “I can make crap art!” perhaps. And you can! Anyone can participate in the movement, as long as the attempt is honest.
 
